@@ -14,6 +14,8 @@ A voice-activated AI girlfriend assistant with animated GIF overlay, powered by 
 
 ##  Output Viedo 
 
+[](output/Liebea.mp4)
+
   <p align="center">
     <video width="500" controls>
       <source src="output/Liebea.mp4" type="video/mp4">

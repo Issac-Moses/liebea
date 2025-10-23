@@ -1,6 +1,6 @@
-# 🎤 Liebee - AI Voice Assistant
+# 🎤 Liebee - AI Cʜᴀʀᴇᴄᴛᴇʀ Rᴇʟᴇᴀsᴇᴅ!! 
 
-A voice-activated AI girlfriend assistant with animated GIF overlay, powered by Google Gemini, Whisper.cpp, and Porcupine wake word detection.
+A voice-activated AI girlfriend assistant with animated GIF overlay, powered by liebea AI Model, Whisper.cpp, and Porcupine wake word detection.
 
 ## ✨ Features
 
@@ -20,8 +20,7 @@ A voice-activated AI girlfriend assistant with animated GIF overlay, powered by 
 - **Microphone** and **speakers/headphones**
 
 ### API Keys Required
-1. **Google Gemini API Key** - Get from [Google AI Studio](https://aistudio.google.com/app/apikey)
-2. **Porcupine API Key** - Get from [Picovoice Console](https://console.picovoice.ai/)
+1. **Porcupine API Key** - Get from [Picovoice Console](https://console.picovoice.ai/)
 
 ### External Dependencies
 1. **Whisper.cpp** - Download and compile:
@@ -83,11 +82,6 @@ pip install -r requirements.txt
 
 ### 3. Set Up API Keys
 Create the following files in `keys/` directory:
-
-**keys/gemini_key.txt**
-```
-your_gemini_api_key_here
-```
 
 **keys/porcupine_key.txt**
 ```

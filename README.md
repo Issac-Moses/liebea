@@ -1,6 +1,6 @@
 #  Liebee - AI Cʜᴀʀᴇᴄᴛᴇʀ Rᴇʟᴇᴀsᴇᴅ!! 
 
-A voice-activated AI girlfriend assistant with animated GIF overlay, powered by liebea AI Model, Whisper.cpp, and Porcupine wake word detection.
+A voice-activated AI girlfriend assistant with animated GIF overlay, powered by liebea AI Model, Whisper.cpp, and Porcupine wake word detection.(Liebea Model is Trained for Emotional Reply and Conversation. Soon 
 
 ##  Features
 

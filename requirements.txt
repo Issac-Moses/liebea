@@ -26,4 +26,4 @@ edge-tts
 playsound
 python-dotenv
 python-magic
-python-magic-bin; platform_system == "Windows"
+python-magic-bin

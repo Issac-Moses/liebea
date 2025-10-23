@@ -12,7 +12,7 @@ A voice-activated AI girlfriend assistant with animated GIF overlay, powered by 
 - **System Tray**: Runs minimized in background with easy quit option
 - **Memory**: Maintains conversation context (last 5 exchanges)
 
-##  Output Viedo 
+##  Output Viedo (click to play full viedo.)
 
 [](output/Liebea.mp4)
 
@@ -22,7 +22,12 @@ A voice-activated AI girlfriend assistant with animated GIF overlay, powered by 
       Your browser does not support the video tag.
     </video>
   </p>
-
+<p align="center">
+  <a href="https://youtu.be/QPyp24JLDBM" target="_blank">
+    <img src="https://img.youtube.com/vi/QPyp24JLDBM/maxresdefault.jpg" 
+         alt="Liebee AI Demo Video" width="600">
+  </a>
+</p>
 
 ##  Prerequisites
 

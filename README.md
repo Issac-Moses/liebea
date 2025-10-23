@@ -1,8 +1,8 @@
-# 🎤 Liebee - AI Cʜᴀʀᴇᴄᴛᴇʀ Rᴇʟᴇᴀsᴇᴅ!! 
+#  Liebee - AI Cʜᴀʀᴇᴄᴛᴇʀ Rᴇʟᴇᴀsᴇᴅ!! 
 
 A voice-activated AI girlfriend assistant with animated GIF overlay, powered by liebea AI Model, Whisper.cpp, and Porcupine wake word detection.
 
-## ✨ Features
+##  Features
 
 - **Wake Word Detection**: Activates with "Hey Liebe" using Porcupine
 - **Speech-to-Text**: Local transcription using Whisper.cpp
@@ -12,7 +12,7 @@ A voice-activated AI girlfriend assistant with animated GIF overlay, powered by 
 - **System Tray**: Runs minimized in background with easy quit option
 - **Memory**: Maintains conversation context (last 5 exchanges)
 
-## 📋 Prerequisites
+##  Prerequisites
 
 ### System Requirements
 - **Windows** (required for some features like beep sounds)
@@ -43,7 +43,7 @@ A voice-activated AI girlfriend assistant with animated GIF overlay, powered by 
    - Download `.ppn` file and rename to `hi_liebe.ppn`
    - Place in project root directory
 
-## 📁 Project Structure
+##  Project Structure
 ```
 project/
 ├── assistant.py              # Main script
@@ -67,7 +67,7 @@ project/
 └── temp/                   # Auto-generated temporary files
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone or Download the Project
 ```bash
@@ -100,7 +100,7 @@ your_porcupine_api_key_here
 ### 5. (Optional) Add Custom Logo
 Place `logo.ico` in `assets/` folder for system tray icon
 
-## 🎮 Usage
+##  Usage
 
 ### Starting the Assistant
 ```bash
@@ -122,7 +122,7 @@ python assistant.py
 - **Drag Window**: Click and drag the GIF overlay to reposition
 - **Quit**: Right-click system tray icon → Quit
 
-## ⚙️ Configuration
+##  Configuration
 
 Edit the following variables in `assistant.py`:
 
@@ -152,7 +152,7 @@ CUSTOM_PROMPT = (
 )
 ```
 
-## 🎨 GIF Optimization
+##  GIF Optimization
 
 The script automatically optimizes GIFs on first run:
 - Reduces file size by ~70%
@@ -162,7 +162,7 @@ The script automatically optimizes GIFs on first run:
 
 Optimized files are saved as `*_optimized.gif` and used automatically.
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -190,7 +190,7 @@ Optimized files are saved as `*_optimized.gif` and used automatically.
 - Verify file paths are correct
 - Try running with administrator privileges
 
-## 📝 Notes
+##  Notes
 
 - First run will take longer due to GIF optimization
 - Internet connection required for Gemini API and Edge-TTS
@@ -198,14 +198,14 @@ Optimized files are saved as `*_optimized.gif` and used automatically.
 - Recording duration is fixed at 3 seconds (configurable)
 - Conversation history limited to last 5 exchanges to manage token usage
 
-## 🔐 Privacy & Security
+##  Privacy & Security
 
 - API keys stored locally in plain text (secure your `keys/` folder)
 - Audio files temporarily saved, then deleted after transcription
 - Conversation history stored in memory only (cleared on restart)
 - No data sent to external servers except Gemini API
 
-## 📄 License
+##  License
 
 This project is open source. Please ensure compliance with:
 - Google Gemini API Terms of Service
@@ -213,11 +213,11 @@ This project is open source. Please ensure compliance with:
 - Whisper.cpp License
 - Edge-TTS Terms of Use
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for improvements.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Google Gemini](https://ai.google.dev/) - AI conversation
 - [Picovoice Porcupine](https://picovoice.ai/) - Wake word detection

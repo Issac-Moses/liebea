@@ -13,6 +13,7 @@ A voice-activated AI girlfriend assistant with animated GIF overlay, powered by 
 - **Memory**: Maintains conversation context (last 5 exchanges)
 
 ##  Output Viedo 
+
 <video width="500" controls>
   <source src="output/Liebea.mp4" type="video/mp4">
   Your browser does not support the video tag.

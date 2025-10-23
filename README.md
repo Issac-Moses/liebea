@@ -14,10 +14,12 @@ A voice-activated AI girlfriend assistant with animated GIF overlay, powered by 
 
 ##  Output Viedo 
 
-<video width="500" controls>
-  <source src="output/Liebea.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <p align="center">
+    <video width="500" controls>
+      <source src="output/Liebea.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </p>
 
 
 ##  Prerequisites
